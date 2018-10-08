@@ -1,0 +1,40 @@
+#----------------------Track   1--------------------------#
+  **************       Session   1      ***************
+
+09:00 AM - Communicating Over Distance 60 min
+10:00 AM - Accounting-Driven Development 5 min
+10:05 AM - Rails Magic 60 min
+11:05 AM - Woah 30 min
+
+  **************       Session   2      ***************
+
+01:00 PM - Ruby on Rails Legacy App Maintenance 60 min
+02:00 PM - User Interface CSS in Rails Apps 30 min
+02:30 PM - Ruby on Rails: Why We Should Move On? 60 min
+03:30 PM - Sit Down and Write 30 min
+04:00 PM - Networking Event
+
+#----------------------Track   2--------------------------#
+  **************       Session   1      ***************
+
+09:00 AM - Writing Fast Tests Against Enterprise Rails 60 min
+10:00 AM - Ruby vs. Clojure for Back-End Development 30 min
+10:30 AM - Clojure Ate Scala (on my project) 50 min
+11:20 AM - Programming in the Boondocks of Seattle 30 min
+
+  **************       Session   2      ***************
+
+01:00 PM - Common Ruby Errors 45 min
+01:45 PM - Lua for the Masses 30 min
+02:15 PM - Overdoing it in Python 45 min
+03:00 PM - A World Without HackerNews 30 min
+04:00 PM - Networking Event
+
+#----------------------Track   3--------------------------#
+  **************       Session   1      ***************
+
+09:00 AM - Pair Programming vs Noise 45 min
+09:45 AM - Rails for Python Developers lightning 35 min
+10:20 AM - Ruby Errors from Mismatched Gem Versions 45 min
+
+Press any key to continue . . .
